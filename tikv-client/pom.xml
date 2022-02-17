@@ -25,7 +25,7 @@
         <jackson.annotations.version>2.9.10</jackson.annotations.version>
         <jackson.databind.version>2.9.10.7</jackson.databind.version>
         <trove4j.version>3.0.1</trove4j.version>
-        <jetcd.version>0.4.1</jetcd.version>
+        <jetcd.version>0.6.1</jetcd.version>
         <joda-time.version>2.9.9</joda-time.version>
         <joda-convert.version>1.9.2</joda-convert.version>
         <proto.folder>${basedir}/proto</proto.folder>
