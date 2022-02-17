@@ -87,7 +87,7 @@
         <CodeCacheSize>1g</CodeCacheSize>
         <test.exclude.tags/>
         <test.include.tags/>
-        <scalaj.version>2.3.0</scalaj.version>
+        <scalaj.version>2.4.2</scalaj.version>
     </properties>
     <repositories>
         <repository>
